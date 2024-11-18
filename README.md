@@ -90,8 +90,8 @@ This project employs advanced SQL concepts to handle complex queries efficiently
 ---
 
 ## 📜 Deliverables
-**SQL Queries**: Modularized SQL scripts for each module.
-**Analysis Repor**t: Comprehensive report summarizing the findings.
+1. **SQL Queries**: Modularized SQL scripts for each module.
+2. **Analysis Repor**t: Comprehensive report summarizing the findings.
 
 ---
 
