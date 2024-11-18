@@ -102,7 +102,4 @@ This project employs advanced SQL concepts to handle complex queries efficiently
    git clone https://github.com/vinabi/retail-analytics.git
    cd retail-analytics
 
-## Key Skills/Techniques:
-```SQL | Data Analysis | Window Functions | CTEs | Aggregation
-
 # 🌟 If you find this project helpful, don’t forget to star the repo! 🌟
